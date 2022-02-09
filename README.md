@@ -11,4 +11,5 @@ Then you have to open with `Live Server`.
 
 ## Screenshots
 
+![All devices - Mockup](https://user-images.githubusercontent.com/24994281/153281402-44bb620d-08bd-43ed-94ac-4094fd47b29e.jpg)
 
